@@ -1,4 +1,4 @@
-# Предсказание коэффициента восстановления золота
+# [Предсказание коэффициента восстановления золота](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/04_integrated_project/04_project.ipynb)
 
 ## Описание проекта
 

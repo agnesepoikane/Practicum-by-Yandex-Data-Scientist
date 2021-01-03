@@ -1,4 +1,4 @@
-# Определение выгодного тарифа для клиентов телеком компании
+# [Определение выгодного тарифа для клиентов телеком компании](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/01_introduction_to_ML/01_project.ipynb)
 
 ## Описание проекта
 
