@@ -1,4 +1,4 @@
-# [Прогнозирование оттока клиентов банка](https://github.com/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/02_supervised_learning/02_project.ipynb)
+# [Прогнозирование оттока клиентов банка](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/02_supervised_learning/02_project.ipynb)
 
 ## Описание проекта
 
