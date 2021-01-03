@@ -46,3 +46,14 @@
 
 ## Используемые библиотеки и модули
 `matplotlib` `pandas` `plotly` `re` `sklearn` `statistics`
+
+## Контакты
+
+[LinkedIn](https://www.linkedin.com/in/agnese-poikane/) 
+:small_blue_diamond: [Facebook](https://www.facebook.com/agnese.poikane/)
+:small_blue_diamond: [Instagram](https://www.instagram.com/poikaneagnese/)
+:small_blue_diamond:[Blog](https://blog.agnesepoikane.com/)
+
+(c) Агнесе Пойкане, cоциолог и аналитик данных
+<br>2020
+
