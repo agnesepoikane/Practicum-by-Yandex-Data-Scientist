@@ -1,4 +1,4 @@
-# [Аналитика в авиакомпании]
+# [Аналитика в авиакомпании](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/09_data_mining/09_project.ipynb)
 
 ## Описание проекта
 

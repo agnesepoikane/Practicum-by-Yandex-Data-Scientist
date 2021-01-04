@@ -16,15 +16,20 @@
 | 06 - численные методы | |||
 | 07 - временные ряды | | ||
 | 08 - машинное обучение для текстов | | ||
-| 09 - извлечение данных | Аналитика в авиакомпании | 1) Провести `EDA` и собрать данные из быза средствами SQL. 2) Исследовать предпочтения пользователей и проверить гипотезу, что количество рейсов во время фестивалей увеличивается | **`folium`** `matplotlib` `numpy` `pandas` `plotly` **`scipy`** |
+| [09 - извлечение данных](https://github.com/agnesepoikane/Practicum-by-Yandex-Data-Scientist/tree/main/09_data_mining) | Аналитика в авиакомпании | 1) Провести `EDA` и собрать данные из базы средствами `SQL`. 2) Исследовать предпочтения пользователей и проверить гипотезу, что количество рейсов во время фестивалей увеличивается | **`folium`** `matplotlib` `numpy` `pandas` `plotly` **`scipy`** |
 | 10 - компьютерное зрение | | ||
 | 11 - обучение без учителя | |||
 | 12 - выпускной проект | |      |  |
 
 :heavy_exclamation_mark: Репозиторий будет пополняться по мере прохождения практики. 
 
-:small_blue_diamond: [LinkedIn](https://www.linkedin.com/in/agnese-poikane/) 
+## Контакты
+
+[LinkedIn](https://www.linkedin.com/in/agnese-poikane/) 
 :small_blue_diamond: [Facebook](https://www.facebook.com/agnese.poikane/)
 :small_blue_diamond: [Instagram](https://www.instagram.com/poikaneagnese/)
-:small_blue_diamond:[Blog](https://blog.agnesepoikane.com/)
+:small_blue_diamond: [Blog](https://blog.agnesepoikane.com/)
+
+(c) Агнесе Пойкане, cоциолог и аналитик данных
+<br>2020-2021
 
