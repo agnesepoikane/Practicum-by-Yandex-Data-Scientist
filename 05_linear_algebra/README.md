@@ -1,4 +1,4 @@
-# [Защита данных клиентов страховой компании]
+# [Защита данных клиентов страховой компании](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/05_linear_algebra/05_project.ipynb)
 
 ## Описание проекта
 
