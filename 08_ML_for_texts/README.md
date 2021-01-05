@@ -1,4 +1,4 @@
-# [Классификация комментариев]
+# [Классификация комментариев](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/08_ML_for_texts/08_project.ipynb)
 
 ## Описание проекта
 
