@@ -1,4 +1,4 @@
-# [Модель для определения рыночной стоимости автомобиля]
+# [Модель для определения рыночной стоимости автомобиля](https://nbviewer.jupyter.org/github/agnesepoikane/Practicum-by-Yandex-Data-Scientist/blob/main/06_numerical_methods/06_project.ipynb)
 
 
 ## Описание проекта
