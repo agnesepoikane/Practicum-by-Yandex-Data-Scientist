@@ -6,7 +6,7 @@
 
 ## [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (сентябрь 2020 — февраль 2021):
 
-:mortar_board: [Диплом о профессиональной переподготовке «Специалист по Data Science»](https://drive.google.com/drive/folders/1JnICm5phHyYE0oGviLDj4RFwAL_NCTnr)
+:mortar_board: [Диплом о профессиональной переподготовке «Специалист по Data Science»](https://drive.google.com/file/d/1DQS-eZEieHUnA99e_FdHJNrSYZDA0g-X/view?usp=sharing)
 
 | Спринт | Название проекта | Цель проекта | Используемые библиотеки и модули |
 | ------------------------ | ----- | ----------- | ---------- | 
